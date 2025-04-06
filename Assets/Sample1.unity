@@ -226,8 +226,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd3e9fd8b27e84fcd8072056b58b1614, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: 
-  geminiApiKey: 
+  apiKey: Your API Key
+  model: gpt-4o-mini
   onResponseOpenAI:
     m_PersistentCalls:
       m_Calls: []
@@ -341,7 +341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   recordToggle: {fileID: 1672330226}
-  apiKey: 
+  apiKey: Your API Key
 --- !u!114 &71665368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -623,7 +623,7 @@ PrefabInstance:
     - target: {fileID: 920447951199956806, guid: 2729e088c8de34921845b7a441b62b21, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 40db3173a05ae3242b1c182a09b0a183, type: 2}
+      objectReference: {fileID: 9100000, guid: 1ea94211339e4407585b1edbeb1906d5, type: 2}
     - target: {fileID: 920447951199956806, guid: 2729e088c8de34921845b7a441b62b21, type: 3}
       propertyPath: m_ApplyRootMotion
       value: 0
