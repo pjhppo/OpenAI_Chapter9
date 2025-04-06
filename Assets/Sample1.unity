@@ -226,8 +226,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd3e9fd8b27e84fcd8072056b58b1614, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: 
-  geminiApiKey: 
+  apiKey: YOUR_API_KEY
+  geminiApiKey: YOUR_API_KEY
   onResponseOpenAI:
     m_PersistentCalls:
       m_Calls: []
